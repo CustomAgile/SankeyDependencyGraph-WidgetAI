@@ -1,0 +1,8 @@
+{
+  "name": "Sankey Dependency Graph",
+  "description": "Sankey Dependency Graph — visualizes predecessor/successor dependency links between User Stories",
+  "sdk": "html",
+  "version": "0.1.0",
+  "bundleReact": false,
+  "build": 0
+}
